@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Things covered in this project:
+ - React Router
+ - How to use the BrowserRouter, Route and Switch.
+ - How to fetch apis with react router
+
+ Using for testing https://fortniteapi.com/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
